@@ -1,6 +1,6 @@
 # Face_Recognition
 
-Dataset = Data consists in Data Folder which consists of 6 categories in which each catefry consist of 21 images
+Dataset = Data consists in Data Folder which consists of 6 categories in which each category consist of 21 images
 
 Test Set =  Test Images are present in Test_Images Folder
 
